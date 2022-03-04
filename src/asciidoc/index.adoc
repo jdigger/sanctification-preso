@@ -1,0 +1,286 @@
+[%notitle]
+= An Intro To Biblical Justification
+:imagesdir: images
+:icons: font
+:revealjs_width: "1200"
+:revealjs_height: "768"
+:revealjs_minScale: 0.2
+:revealjs_maxScale: 2.0
+:customcss: ./preso.css
+:revealjs_theme: simple
+:revealjs_history: true
+:revealjs_transition: none
+// :revealjs_controls: false
+
+
+== Agenda
+
+* What is Justification?
+* Major views on Justification
+* What did Jesus say?
+* Bringing in the rest of the Word
+* What is Justification (pt2)?
+* What does that mean for us?
+
+
+
+== What is Justification?
+
+This is one of those terms where the common-place use of the term has changed from its technical meaning
+
+== What is Justification?
+
+*Modern English*
+
+When we say "`Was he justified?`" we mean "`Did he have a good reason to do that?`"
+
+== What is Justification?
+
+*Technical Meaning*
+
+However, the word comes from Latin meaning "`to make Righteous`" or "`to do Righteousness.`"
+
+\... Where "`Righteous`" means "`to be Right`", which in a Biblical context means "`to be Holy`"
+
+== Well, obviously... 🤔🤷
+
+== Bringing it back together
+
+Justification is "`How can we stand before a Holy God?`"
+
+Or, to put it in more common language...
+
+== How are we Saved?
+
+== A moment on Sanctification...
+
+That's the question of how do we pass:[<b><u>become</u></b>] Holy (the process -- whereas Justification is about our Status)
+
+[%notitle]
+== A moment on Sanctification...
+
+[%notitle]
+How this happens is a very big & important topic on its own, and we'll talk about it in more detail next time
+
+[%notitle]
+== A moment on Sanctification...
+
+For now, we're covering our standing before God as a distinct (but obviously very tightly-related) topic
+
+
+== Major Views on Justification
+
+== ... for those who do not believe in Original Sin
+
+== Atheist "`Justification`"
+
+Are you a "`good person`" or not?
+
+Do you do nice things for others?
+
+== Atheist "`Justification`"
+
+Do you "`live your truth`" so that others may likewise be empowered?
+
+Have you made the world a better place?
+
+== Islam Justification
+
+There is no Original Sin (https://quran.com/35/18["`No soul shall bear the burden of another`")], but just as a child of a drug addict suffers the consequences of their parent, they are not "`guilty`" of drug-use.
+
+== Islam Justification
+
+It is solely God's choice for Salvation -- He's not bound by the need for sins to be "`paid for.`"
+
+While He can save anyone He chooses, He does look much more favorably on those that seek after Him, which means following the tenents of Islam. https://www.whyislam.org/islam/salvation/[^*^]
+
+== ... for those who DO believe in Original Sin
+
+== Catholic Justification
+
+God heals and transforms us through Baptism, enabling us to do His will, and is the first step of a lifelong journey.
+
+It is through the Sacraments that we continue to receive His Grace, empowering/enabling us to do the good works that make us Holy and merit Justification/Salvation. https://www.catholic.com/qa/difference-between-catholic-and-protestant-views-on-justification-and-sanctification[^*^]
+
+== Lutheran/Reformed Justification
+
+We are *_declared_* to be Righteous the moment we believe in God's gift of Salvation.
+
+While there is a transformation that happens in the believer's soul and good works that flow from that (Sanctification), nothing we do can contribute to the completed work of Christ on the cross that bought us Salvation.
+
+== At eHills
+
+https://ehills.org/about-us/who-we-are/what-we-believe/
+
+== eHills - About The Bible
+
+[quote]
+The Bible is God's word to all mankind. It was written by human authors, under the supernatural guidance of the Holy Spirit. It is the supreme source of truth for Christian beliefs and living. Because it is inspired by God, it is infallible truth that is authoritative for our lives.
+
+image::SolaScriptura.jpg[role="sola-inv", width=500]
+
+== eHills - About The Bible
+
+[quote]
+The Bible pass:[<u><b>is God's word</b></u>] to all mankind. It was written by human authors, under the supernatural guidance of the Holy Spirit. It is pass:[<u><b>the supreme source of truth</b></u>] for Christian beliefs and living. Because it is inspired by God, pass:[<b><u>it is infallible truth that is authoritative</u></b>] for our lives.
+
+image::SolaScriptura.jpg[role="sola", width=500]
+
+== eHills - About Salvation
+
+[quote]
+Salvation is a gift from God to mankind. We can never make up for our sin by self-improvement or good works. Only by trusting in Jesus Christ as God's offer of forgiveness can we be saved from sin's penalty. Eternal life begins the moment we receive Jesus Christ into our life by faith.
+
+image::SolaFide.jpg[role="sola-inv", width=500]
+
+== eHills - About Salvation
+
+[quote]
+Salvation is pass:[<b><u>a gift from God</u></b>] to mankind. We can pass:[<b><u>never</u></b>] make up for our sin by self-improvement or good works. pass:[<b><u>Only</u></b>] by trusting in Jesus Christ as God's offer of forgiveness can we be saved from sin's penalty. Eternal life begins pass:[<b><u>the moment we receive Jesus Christ into our life by faith</u></b>].
+
+image::SolaFide.jpg[role="sola", width=500]
+
+== eHills - About Eternal Security
+
+[quote]
+Because God gives us eternal life through Jesus Christ, the believer is secure in the salvation for eternity. Salvation is maintained by the grace and power of God, not by the self-effort of the Christian. It is the grace and keeping power of God that gives this security.
+
+image::SolaGratia.jpg[role="sola-inv", width=500]
+
+== eHills - About Eternal Security
+
+[quote]
+Because pass:[<b><u>God gives us</u></b>] eternal life through Jesus Christ, the believer is pass:[<b><u>secure</u></b>] in the salvation for eternity. Salvation is maintained by the pass:[<u><b>grace and power of God</b></u>], not by the self-effort of the Christian. It is the pass:[<b><u>grace and keeping power</u></b>] of God that gives this security.
+
+image::SolaGratia.jpg[role="sola", width=500]
+
+== What did Jesus have to say about how we get into Heaven?
+
+That was His primary purpose here, so he said a lot...
+
+To get a good feel, it's worthwhile to take a look at His longest recorded sermon: The Sermon on the Mount
+
+== Surprassing Holiness...
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Matthew+5%3A17-20&version=NIV[Matt 5:17-20] "`Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them. For truly I tell you, until heaven and earth disappear, not the smallest letter, not the least stroke of a pen, will by any means disappear from the Law until everything is accomplished... For I tell you that unless your righteousness surpasses that of the Pharisees and the teachers of the law, you will certainly not enter the kingdom of heaven.`"
+
+[.smaller]
+What words/phrases stand out to you?
+
+== Be Ye Perfect
+
+In fact, after clarifying for an entire chapter what's meant by "`not the least stroke of the pen`" where He gives standards that vastly surpass anything the religious leaders would have dared (turn the other cheek, no fleeting lustful thoughts, no burst of anger against someone, love your enemies, etc.).
+
+He sums up the introduction to the sermon with
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Matthew+5%3A48&version=NIV[Matthew 5] "`Be perfect, therefore, as your heavenly Father is perfect.`"
+
+== Sure.  No problemo.  We've got this...
+
+== ...but first a quick aside...
+
+When you read about Sin in the Bible, it's talked about in a very objective, status-oriented way, akin to a "`legal standing.`" As the old truism says: We aren't sinners because we sin, but we sin because we are sinners.
+
+== ...but first a quick aside...
+
+That's a whole study on its own, but notice as you read the Bible how much it leans on objective, universal Truth, not what our actions or feelings have to do with it. The only part that has anything to do with us is if we believe Him or not...
+
+== Let's bring it back to a conversation He'd had earlier with a Religious Leader: Nicodemus
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=John+3%3A5-15&version=NIV[John 3:5-6,13-15]: Jesus answered, "`Very truly I tell you, no one can enter the kingdom of God unless they are born of water and the Spirit. Flesh gives birth to flesh, but the Spirit gives birth to spirit... No one has ever gone into heaven except the one who came from heaven -- the Son of Man. Just as Moses lifted up the snake in the wilderness, so the Son of Man must be lifted up, that everyone who believes may have eternal life in him.`"
+
+== Which John immediately summarizes as
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=John+3%3A16-18&version=NIV[John 3:16-18]: For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. For God did not send his Son into the world to condemn the world, but to save the world through him. Whoever believes in him is not condemned, but whoever does not believe stands condemned already because they have not believed in the name of God’s one and only Son.
+
+== Does the rest of the Bible have anything to say about this?
+
+[%notitle]
+== Does the rest of the Bible have anything to say about this?
+
+[cols="1,1", .verses]
+|===
+|Psalms 14:3
+|Psalms 53:2-3
+|Psalms 130:3-4
+|Psalms 103:12
+|Luke 15:11-32
+|Luke 23:40-43
+|Acts 13:46-47
+|1 Corinthians 6:11
+|2 Corinthians 5:19-21
+|Philippians 3:7-12
+|Romans 3:22-26
+|Romans 4:25
+|Romans 5:1
+|Romans 5:16-18
+|1 John 2:2
+|Galatians 2:16
+|Ephesians 2:1-8
+|Titus 3:7
+|===
+
+
+== So, let's try this again...
+
+== What Is Justification?
+
+== What Is Justification?
+
+God has saved us from the just consequences of our sins by pass:[<b><u>declaring</u></b>] us to be Holy in His sight, which is accounted to us through Faith in the completed works of Jesus.
+
+== ...or you might have heard it expressed this way...
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=john%203:16&version=NIV[John 3:16]: For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.
+
+== This IS the Good News of the Bible (the Gospel)
+
+== In fact, to continue that thought...
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=john%203:16&version=NIV[John 3:17-18]: For God did not send his Son into the world to condemn the world, but to save the world through him. pass:[<b><u>Whoever believes in him is not condemned</u></b>], but whoever does not believe stands condemned already because they have not believed in the name of God’s one and only Son.
+
+[.smaller]
+_emphasis mine_
+
+== In other words, you are NOT right before God because you...
+
+[%step]
+* ...are a "`good person`"
+* ...do nice things for others
+* ...have taken all the Sacraments
+* ...are sufficiently Holy
+
+== Wait, that can't be right...
+
+== You mean it's SIMPLY a GIFT, not something I earn in ANY way???
+
+== Absolutely
+
+== It's a covenant from God to us
+
+It's a promise, not a contract where we have our own terms to uphold. It's "`did and done,`" accounted to us (_imputed_) based solely on what Christ did.
+
+== Again, the only question is "`Do you believe what God said?`"
+
+...or do you choose to call Him a liar? That everything He's done for you really isn't enough.
+
+
+== To bring this all back
+
+Let's take another look at https://ehills.org/about-us/who-we-are/what-we-believe/[the statement of faith we have at eHills]
+
+[quote]
+Salvation is a gift from God to mankind. We can never make up for our sin by self-improvement or good works. Only by trusting in Jesus Christ as God's offer of forgiveness can we be saved from sin's penalty... Because God gives us eternal life through Jesus Christ, the believer is secure in the salvation for eternity. Salvation is maintained by the grace and power of God, not by the self-effort of the Christian. It is the grace and keeping power of God that gives this security.
+
+== Praise God!
+
+== Next time
+
+We are saved by Grace alone, through Faith alone -- but not by a faith that *IS* alone.
+
+We'll look at our response to this Grace next time, when we look at Sanctification

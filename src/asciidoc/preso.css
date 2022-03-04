@@ -1,0 +1,79 @@
+.reveal section .plain img {
+    border: 0;
+    box-shadow: none;
+}
+
+.reveal .slides section {
+    padding: 0;
+}
+
+.imageblock.right {
+    float: right;
+}
+
+.imageblock.left {
+    left: -30px;
+    float: left;
+    padding-right: 5px;
+}
+
+.admonitionblock table {
+    text-align: left;
+    margin-left: 0em;
+}
+
+.reveal .imageblock img {
+    border-width: inherit;
+    box-shadow: inherit;
+    background: inherit;
+}
+
+.reveal pre {
+    width: 100%;
+    box-shadow: inherit;
+}
+
+.reveal pre code {
+    /* display: block; */
+    /* padding: 5px; */
+    /* overflow: auto; */
+    max-height: 30em;
+    /* word-wrap: normal; */
+}
+
+.reveal blockquote {
+    width: 90%;
+}
+
+div.smaller {
+    font-size: 50%;
+    line-height: normal;
+}
+
+.twocol ul {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    column-gap: 2em;
+    -webkit-column-gap: 2em;
+    -moz-column-gap: 2em;
+    list-style-position: outside;
+}
+
+.reveal table th, .reveal table td .tableblock {
+  padding: 0.0em;
+  margin: 0em;
+}
+
+.quoteblock.bible {
+	background-image: url("images/large-papyrus-background.jpg");
+}
+
+div.imageblock.sola-inv > img {
+	opacity: 0.0;
+}
+
+.license {
+    font-size: 0.5em;
+    line-height: normal;
+}

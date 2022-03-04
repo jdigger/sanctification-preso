@@ -1,0 +1,49 @@
+{
+  "name": "bible-history-preso",
+  "version": "1.0.0",
+  "description": "Bible History presentation",
+  "devDependencies": {
+    "asciidoctor.js": "^1.5.9",
+    "chokidar": "^3.5.2",
+    "mkdirp": "^0.5.1",
+    "@asciidoctor/reveal.js": "^5.0.0-rc.1",
+    "@typescript-eslint/parser": "^5.8.0",
+    "asciidoctor": "^2.2.5",
+    "connect": "^3.6.6",
+    "eslint": "^8.5.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "express": "^4.16.3",
+    "gh-pages": "^1.2.0",
+    "morgan": "^1.9.0",
+    "ts-node": "^8.0.2",
+    "tslint-config-prettier": "^1.18.0"
+  },
+  "scripts": {
+    "watch": "node asciidoctor-revealjs.js",
+    "lint-init": "eslint --init",
+    "lint": "eslint *.js",
+    "lint-fix": "eslint --fix *.js",
+    "start": "node server.js",
+    "ghpages": "node publish.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdigger/bible-history-preso.git"
+  },
+  "keywords": [
+    "bible"
+  ],
+  "author": "Jim Moore",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/jdigger/bible-history-preso/issues"
+  },
+  "homepage": "https://github.com/jdigger/bible-history-preso#readme"
+}
