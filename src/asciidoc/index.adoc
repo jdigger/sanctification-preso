@@ -1,5 +1,5 @@
 [%notitle]
-= An Intro To Biblical Justification
+= An Intro To Biblical Sanctification
 :imagesdir: images
 :icons: font
 :revealjs_width: "1200"
@@ -15,272 +15,180 @@
 
 == Agenda
 
-* What is Justification?
-* Major views on Justification
-* What did Jesus say?
-* Bringing in the rest of the Word
-* What is Justification (pt2)?
-* What does that mean for us?
-
-
-
-== What is Justification?
-
-This is one of those terms where the common-place use of the term has changed from its technical meaning
-
-== What is Justification?
-
-*Modern English*
-
-When we say "`Was he justified?`" we mean "`Did he have a good reason to do that?`"
-
-== What is Justification?
-
-*Technical Meaning*
-
-However, the word comes from Latin meaning "`to make Righteous`" or "`to do Righteousness.`"
-
-\... Where "`Righteous`" means "`to be Right`", which in a Biblical context means "`to be Holy`"
-
-== Well, obviously... 🤔🤷
-
-== Bringing it back together
-
-Justification is "`How can we stand before a Holy God?`"
-
-Or, to put it in more common language...
-
-== How are we Saved?
-
-== A moment on Sanctification...
-
-That's the question of how do we pass:[<b><u>become</u></b>] Holy (the process -- whereas Justification is about our Status)
-
-[%notitle]
-== A moment on Sanctification...
-
-[%notitle]
-How this happens is a very big & important topic on its own, and we'll talk about it in more detail next time
-
-[%notitle]
-== A moment on Sanctification...
-
-For now, we're covering our standing before God as a distinct (but obviously very tightly-related) topic
-
-
-== Major Views on Justification
-
-== ... for those who do not believe in Original Sin
-
-== Atheist "`Justification`"
-
-Are you a "`good person`" or not?
-
-Do you do nice things for others?
-
-== Atheist "`Justification`"
-
-Do you "`live your truth`" so that others may likewise be empowered?
-
-Have you made the world a better place?
-
-== Islam Justification
-
-There is no Original Sin (https://quran.com/35/18["`No soul shall bear the burden of another`")], but just as a child of a drug addict suffers the consequences of their parent, they are not "`guilty`" of drug-use.
-
-== Islam Justification
-
-It is solely God's choice for Salvation -- He's not bound by the need for sins to be "`paid for.`"
-
-While He can save anyone He chooses, He does look much more favorably on those that seek after Him, which means following the tenents of Islam. https://www.whyislam.org/islam/salvation/[^*^]
-
-== ... for those who DO believe in Original Sin
-
-== Catholic Justification
-
-God heals and transforms us through Baptism, enabling us to do His will, and is the first step of a lifelong journey.
-
-It is through the Sacraments that we continue to receive His Grace, empowering/enabling us to do the good works that make us Holy and merit Justification/Salvation. https://www.catholic.com/qa/difference-between-catholic-and-protestant-views-on-justification-and-sanctification[^*^]
-
-== Lutheran/Reformed Justification
-
-We are *_declared_* to be Righteous the moment we believe in God's gift of Salvation.
-
-While there is a transformation that happens in the believer's soul and good works that flow from that (Sanctification), nothing we do can contribute to the completed work of Christ on the cross that bought us Salvation.
-
-== At eHills
-
-https://ehills.org/about-us/who-we-are/what-we-believe/
-
-== eHills - About The Bible
-
-[quote]
-The Bible is God's word to all mankind. It was written by human authors, under the supernatural guidance of the Holy Spirit. It is the supreme source of truth for Christian beliefs and living. Because it is inspired by God, it is infallible truth that is authoritative for our lives.
-
-image::SolaScriptura.jpg[role="sola-inv", width=500]
-
-== eHills - About The Bible
-
-[quote]
-The Bible pass:[<u><b>is God's word</b></u>] to all mankind. It was written by human authors, under the supernatural guidance of the Holy Spirit. It is pass:[<u><b>the supreme source of truth</b></u>] for Christian beliefs and living. Because it is inspired by God, pass:[<b><u>it is infallible truth that is authoritative</u></b>] for our lives.
-
-image::SolaScriptura.jpg[role="sola", width=500]
-
-== eHills - About Salvation
-
-[quote]
-Salvation is a gift from God to mankind. We can never make up for our sin by self-improvement or good works. Only by trusting in Jesus Christ as God's offer of forgiveness can we be saved from sin's penalty. Eternal life begins the moment we receive Jesus Christ into our life by faith.
-
-image::SolaFide.jpg[role="sola-inv", width=500]
-
-== eHills - About Salvation
-
-[quote]
-Salvation is pass:[<b><u>a gift from God</u></b>] to mankind. We can pass:[<b><u>never</u></b>] make up for our sin by self-improvement or good works. pass:[<b><u>Only</u></b>] by trusting in Jesus Christ as God's offer of forgiveness can we be saved from sin's penalty. Eternal life begins pass:[<b><u>the moment we receive Jesus Christ into our life by faith</u></b>].
-
-image::SolaFide.jpg[role="sola", width=500]
-
-== eHills - About Eternal Security
-
-[quote]
-Because God gives us eternal life through Jesus Christ, the believer is secure in the salvation for eternity. Salvation is maintained by the grace and power of God, not by the self-effort of the Christian. It is the grace and keeping power of God that gives this security.
-
-image::SolaGratia.jpg[role="sola-inv", width=500]
-
-== eHills - About Eternal Security
-
-[quote]
-Because pass:[<b><u>God gives us</u></b>] eternal life through Jesus Christ, the believer is pass:[<b><u>secure</u></b>] in the salvation for eternity. Salvation is maintained by the pass:[<u><b>grace and power of God</b></u>], not by the self-effort of the Christian. It is the pass:[<b><u>grace and keeping power</u></b>] of God that gives this security.
-
-image::SolaGratia.jpg[role="sola", width=500]
-
-== What did Jesus have to say about how we get into Heaven?
-
-That was His primary purpose here, so he said a lot...
-
-To get a good feel, it's worthwhile to take a look at His longest recorded sermon: The Sermon on the Mount
-
-== Surprassing Holiness...
+* The nature of God
+* What is Sanctification?
+* Be Whose You Are
+* Born Again -- To Grow
+* From God
+
+== The nature of God
+
+== In the Beginning
 
 [quote.bible]
-https://www.biblegateway.com/passage/?search=Matthew+5%3A17-20&version=NIV[Matt 5:17-20] "`Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them. For truly I tell you, until heaven and earth disappear, not the smallest letter, not the least stroke of a pen, will by any means disappear from the Law until everything is accomplished... For I tell you that unless your righteousness surpasses that of the Pharisees and the teachers of the law, you will certainly not enter the kingdom of heaven.`"
+https://www.biblegateway.com/passage/?search=Genesis+1&version=NIV[Genesis 1:1,26-27,31] In the beginning God created the heavens and the earth... Then God said, "`Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground.`" So God created mankind in his own image, in the image of God he created them; male and female he created them... God saw all that he had made, and it was very good. And there was evening, and there was morning—the sixth day.
 
-[.smaller]
-What words/phrases stand out to you?
-
-== Be Ye Perfect
-
-In fact, after clarifying for an entire chapter what's meant by "`not the least stroke of the pen`" where He gives standards that vastly surpass anything the religious leaders would have dared (turn the other cheek, no fleeting lustful thoughts, no burst of anger against someone, love your enemies, etc.).
-
-He sums up the introduction to the sermon with
-[quote.bible]
-https://www.biblegateway.com/passage/?search=Matthew+5%3A48&version=NIV[Matthew 5] "`Be perfect, therefore, as your heavenly Father is perfect.`"
-
-== Sure.  No problemo.  We've got this...
-
-== ...but first a quick aside...
-
-When you read about Sin in the Bible, it's talked about in a very objective, status-oriented way, akin to a "`legal standing.`" As the old truism says: We aren't sinners because we sin, but we sin because we are sinners.
-
-== ...but first a quick aside...
-
-That's a whole study on its own, but notice as you read the Bible how much it leans on objective, universal Truth, not what our actions or feelings have to do with it. The only part that has anything to do with us is if we believe Him or not...
-
-== Let's bring it back to a conversation He'd had earlier with a Religious Leader: Nicodemus
-
-[quote.bible]
-https://www.biblegateway.com/passage/?search=John+3%3A5-15&version=NIV[John 3:5-6,13-15]: Jesus answered, "`Very truly I tell you, no one can enter the kingdom of God unless they are born of water and the Spirit. Flesh gives birth to flesh, but the Spirit gives birth to spirit... No one has ever gone into heaven except the one who came from heaven -- the Son of Man. Just as Moses lifted up the snake in the wilderness, so the Son of Man must be lifted up, that everyone who believes may have eternal life in him.`"
-
-== Which John immediately summarizes as
-
-[quote.bible]
-https://www.biblegateway.com/passage/?search=John+3%3A16-18&version=NIV[John 3:16-18]: For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. For God did not send his Son into the world to condemn the world, but to save the world through him. Whoever believes in him is not condemned, but whoever does not believe stands condemned already because they have not believed in the name of God’s one and only Son.
-
-== Does the rest of the Bible have anything to say about this?
-
-[%notitle]
-== Does the rest of the Bible have anything to say about this?
-
-[cols="1,1", .verses]
-|===
-|Psalms 14:3
-|Psalms 53:2-3
-|Psalms 130:3-4
-|Psalms 103:12
-|Luke 15:11-32
-|Luke 23:40-43
-|Acts 13:46-47
-|1 Corinthians 6:11
-|2 Corinthians 5:19-21
-|Philippians 3:7-12
-|Romans 3:22-26
-|Romans 4:25
-|Romans 5:1
-|Romans 5:16-18
-|1 John 2:2
-|Galatians 2:16
-|Ephesians 2:1-8
-|Titus 3:7
-|===
-
-
-== So, let's try this again...
-
-== What Is Justification?
-
-== What Is Justification?
-
-God has saved us from the just consequences of our sins by pass:[<b><u>declaring</u></b>] us to be Holy in His sight, which is accounted to us through Faith in the completed works of Jesus.
-
-== ...or you might have heard it expressed this way...
-
-[quote.bible]
-https://www.biblegateway.com/passage/?search=john%203:16&version=NIV[John 3:16]: For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.
-
-== This IS the Good News of the Bible (the Gospel)
-
-== In fact, to continue that thought...
-
-[quote.bible]
-https://www.biblegateway.com/passage/?search=john%203:16&version=NIV[John 3:17-18]: For God did not send his Son into the world to condemn the world, but to save the world through him. pass:[<b><u>Whoever believes in him is not condemned</u></b>], but whoever does not believe stands condemned already because they have not believed in the name of God’s one and only Son.
-
-[.smaller]
-_emphasis mine_
-
-== In other words, you are NOT right before God because you...
+== Familiar verses, but what do you get from them?
 
 [%step]
-* ...are a "`good person`"
-* ...do nice things for others
-* ...have taken all the Sacraments
-* ...are sufficiently Holy
+* God was the beginning, and Creator of all things (see also https://www.biblegateway.com/passage/?search=John+1:3&version=NIV[John 1:3])
+* Humanity was made in God's image
+* "`and it was very good`"
+* ...
 
-== Wait, that can't be right...
+== 	and in the very next chapter is the Fall
 
-== You mean it's SIMPLY a GIFT, not something I earn in ANY way???
+== The Throne Room
 
-== Absolutely
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Isaiah+6%3A1-5&version=NIV[Isaiah 6:1-5]: In the year that King Uzziah died, I saw the Lord, high and exalted, seated on a throne... Above him were seraphim, each with six wings: With two wings they covered their faces, with two they covered their feet, and with two they were flying. And they were calling to one another: "`Holy, holy, holy is the LORD Almighty; the whole earth is full of his glory.`" ... "`Woe to me!`" I cried. "`I am ruined! For I am a man of unclean lips, and I live among a people of unclean lips, and my eyes have seen the King, the LORD Almighty.`"
 
-== It's a covenant from God to us
+== Unholy can not taint the Holy
 
-It's a promise, not a contract where we have our own terms to uphold. It's "`did and done,`" accounted to us (_imputed_) based solely on what Christ did.
+[quote.bible]
+https://www.biblegateway.com/passage/?search=2+Samuel+6%3A1-6&version=NIV[2 Samuel 6:1-6] David... and all his men went to Baalah in Judah to bring up from there the ark of God, which is called by the Name, the name of the Lord Almighty, who is enthroned between the cherubim on the ark. They set the ark of God on a new cart and brought it from the house of Abinadab... Uzzah and Ahio, sons of Abinadab, were guiding the new cart with the ark of God on it... David and all Israel were celebrating with all their might before the Lord... When they came to the threshing floor of Nakon, Uzzah reached out and took hold of the ark of God, because the oxen stumbled. The Lord's anger burned against Uzzah because of his irreverent act; therefore God struck him down, and he died there beside the ark of God.
 
-== Again, the only question is "`Do you believe what God said?`"
+[%notitle]
+== Raiders
 
-...or do you choose to call Him a liar? That everything He's done for you really isn't enough.
+image::1981-Raiders-of-the-Lost-Ark-07.jpg[width=500]
+image::rising_angel_ark.jpg[width=500]
+image::angel_ark_manifest.jpg[width=500]
+
+== There are entire books of the Old Testament talking about the need to be set apart -- consecrated -- or there are horrible consequences
+
+== But that's all in the past.  On this side of the New Testament, God's much more chill
+
+== Right?
+== Not abolishing the Law
+
+Remember https://jdigger.github.io/justification-preso/[as we talked about last time] the start of the Sermon on the Mount?
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Matthew+5%3A17-48&version=NIV[Matthew 5:17,20,48] "`Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them... For I tell you that unless your righteousness surpasses that of the Pharisees and the teachers of the law, you will certainly not enter the kingdom of heaven... Be perfect, therefore, as your heavenly Father is perfect.`"
+
+== Righteous? Perfect?
+
+We used the term "`holy`" many times before, but didn't define it
+
+image::holy_definition.png[]
+
+== Minor Rewording
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Matthew+5%3A17-48&version=NIV[Matthew 5:17,20,48] "`Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them... For I tell you that unless your pass:[<b><u>holiness</u></b>] surpasses that of the Pharisees and the teachers of the law, you will certainly not enter the kingdom of heaven... Be pass:[<b><u>holy</u></b>], therefore, as your heavenly Father is pass:[<b><u>holy</u></b>].`"
 
 
-== To bring this all back
+== A Living Sacrifice
 
-Let's take another look at https://ehills.org/about-us/who-we-are/what-we-believe/[the statement of faith we have at eHills]
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Romans+12%3A1&version=NKJV[Romans 12:1] I beseech you therefore, brethren, by the mercies of God, that you present your bodies a living sacrifice, holy, acceptable to God, which is your reasonable service.
 
-[quote]
-Salvation is a gift from God to mankind. We can never make up for our sin by self-improvement or good works. Only by trusting in Jesus Christ as God's offer of forgiveness can we be saved from sin's penalty... Because God gives us eternal life through Jesus Christ, the believer is secure in the salvation for eternity. Salvation is maintained by the grace and power of God, not by the self-effort of the Christian. It is the grace and keeping power of God that gives this security.
+== Be ye Holy
+[quote.bible]
+https://www.biblegateway.com/passage/?search=1+Peter+1%3A15-16&version=NIV[1 Peter 1:15-16] But just as he who called you is holy, so be holy in all you do; for it is written: "`Be holy, because I am holy.`"
 
-== Praise God!
+He's quoting Leviticus 11:45, which is in the middle of a book talking about all the ways God was setting His people apart as a holy people (the Levitical Laws), and how serious He is about it
+
+== What's all this about Holiness? Isn't this about Sanctification?
+
+== Sanctify definition
+
+image::sanctify_definition.png[]
+
+== Wait, I'm certainly not Holy...
+
+Yes, you are.  That IS the Gospel.  We are Holy in God's sight, https://jdigger.github.io/justification-preso/[as we talked about the last time]
+
+== Now Be Whose Who Are
+
+You are a Child of the King, created in His image; of infinite dignity, value, and worth
+
+Christ paid the price of your sin with His life and blood
+
+== Live like you actually BELIEVE that
+
+== Giving Thanks to the Father
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Ephesians+5%3A1-17&version=NIV[Ephesians 5:1-17] Follow God's example, therefore, as dearly loved children and walk in the way of love, just as Christ loved us and gave himself up for us as a fragrant offering and sacrifice to God. But among you there must not be even a hint of sexual immorality, or of any kind of impurity, or of greed, because these are improper for God's holy people... For you were once darkness, but now you are light in the Lord. Live as children of light... Be very careful, then, how you live -- not as unwise but as wise, making the most of every opportunity, because the days are evil... Sing and make music from your heart to the Lord, always giving thanks to God the Father for everything, in the name of our Lord Jesus Christ.
+
+== Be Thankful
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Matthew%2018:21-35&version=NIV[Matthew 18:21-35] [Jesus answered,] "`Therefore, the kingdom of heaven is like a king who wanted to settle accounts with his servants... A man who owed him ten thousand bags of gold was brought to him. Since he was not able to pay... the servant fell on his knees before him. '`Be patient with me,`' he begged, '`and I will pay back everything.`' The servant’s master took pity on him, canceled the debt, and let him go. But when that servant went out, he found one of his fellow servants who owed him a hundred silver coins... His fellow servant fell to his knees and begged him, '`Be patient with me...`' But he refused... Then the master called the servant in... In anger his master handed him over to the jailers to be tortured, until he should pay back all he owed.`"
+
+== Faith Without Works is Dead
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=James+2%3A14-19&version=NIV[James 2:14-19] What good is it, my brothers and sisters, if someone claims to have faith but has no deeds? Can such faith save them? Suppose a brother or a sister is without clothes and daily food. If one of you says to them, "`Go in peace; keep warm and well fed,`" but does nothing about their physical needs, what good is it? In the same way, faith by itself, if it is not accompanied by action, is dead. But someone will say, "`You have faith; I have deeds.`" Show me your faith without deeds, and I will show you my faith by my deeds. You believe that there is one God. Good! Even the demons believe that—and shudder.
+
+== A Slave to Sin
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Romans+7%3A14%E2%80%9325&version=NIV[Romans 7:14-25] We know that the law is spiritual; but I am unspiritual, sold as a slave to sin. I do not understand what I do. For what I want to do, I do not do; but what I hate, I do... Now if I do what I do not want to do, it is no longer I who do it, but it is sin living in me that does it. So I find this law at work: Although I want to do good, evil is right there with me... What a wretched man I am! Who will rescue me from this body that is subject to death? Thanks be to God, who delivers me through Jesus Christ our Lord!
+
+== Born Again -- To Grow
+
+Christ Justified us to Himself.  When we believe that, https://www.biblegateway.com/passage/?search=2+Corinthians+5%3A17&version=NKJV[we are reborn (2 Cor 5:17)]
+
+Sanctification is His setting us apart (holy and consecrated), https://www.biblegateway.com/passage/?search=2+Peter+3%3A18&version=NIV[growing in grace]
+
+== Thankfully, even that is from God
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=1+Thessalonians+5%3A23&version=NKJV[1 Thessalonians 5:23] Now may the God of peace Himself sanctify you completely; and may your whole spirit, soul, and body be preserved blameless at the coming of our Lord Jesus Christ.
+
+== Holy and Blameless
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Ephesians+5%3A25-27&version=NIV[Ephesians 5:25-27] Husbands, love your wives, just as Christ loved the church and gave himself up for her to make her holy, cleansing her by the washing with water through the word, and to present her to himself as a radiant church, without stain or wrinkle or any other blemish, but holy and blameless...
+
+== Firm to the End
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=1%20Corinthians%201&version=NIV[1 Corinthians 1:2,8] To the church of God in Corinth, to those sanctified in Christ Jesus and called to be his holy people, together with all those everywhere who call on the name of our Lord Jesus Christ... He will also keep you firm to the end, so that you will be blameless on the day of our Lord Jesus Christ...
+
+== Temptation that is common to Mankind
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=1+Corinthians+10&version=NIV[1 Corinthians 10:12-13,23-24] So, if you think you are standing firm, be careful that you don't fall! No temptation has overtaken you except what is common to mankind. And God is faithful; he will not let you be tempted beyond what you can bear. But when you are tempted, he will also provide a way out so that you can endure it... "`I have the right to do anything,`" you say -- but not everything is beneficial. "`I have the right to do anything`" -- but not everything is constructive. No one should seek their own good, but the good of others.
+
+== More Resources
+
+[.smaller]
+[cols="1,1", .verses]
+|===
+| 1 Pet. 2:21
+| 1 Thess. 5:23
+| 1 Cor. 6:11,19-20
+| 2 Cor. 3:18
+| 2 Cor. 7:1
+| 2 Thess. 2:13
+| 1 Tim. 1:12
+| 2 Tim. 1:7
+| 2 Tim. 2:1
+| Col. 1:11
+| Col. 3:5
+| Eph. 4:22–24
+| Eph. 5:2
+| Gal. 4:19
+| Gal. 5:22–25
+| Hebrews 12:14
+| Hebrews 13:20-21
+| Phil. 2:12-13
+| Phil. 2:5–11
+| Phil. 3:10–14
+| Phil. 4:13
+| Romans 12:1-2
+| Romans 13:10
+| Romans 8:13
+| Romans 8:13
+| Romans 8:29
+|===
+
+
 
 == Next time
 
-We are saved by Grace alone, through Faith alone -- but not by a faith that *IS* alone.
-
-We'll look at our response to this Grace next time, when we look at Sanctification
+We'll talk about Christ presenting His Sanctified Church to the Father at the End of Days

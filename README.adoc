@@ -2,9 +2,9 @@
 
 ## Purpose
 
-A short tour through the history of the Bible
+A short tour through the what the Bible says about our Sanctification
 
-Go to https://jdigger.github.io/justification-preso/index.html
+Go to https://jdigger.github.io/sanctification-preso/index.html
 
 ## Building
 
